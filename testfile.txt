@@ -3,3 +3,5 @@ test second new content
 test 3 new content
 test 4 new content
 test 5 new content
+test 6 new content
+test 7 new content
