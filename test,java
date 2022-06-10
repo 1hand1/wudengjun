@@ -1,3 +1,4 @@
 private class Test{
 private int code；
+private String name;
 }
