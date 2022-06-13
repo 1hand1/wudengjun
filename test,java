@@ -1,5 +1,5 @@
-private class Test{
+class Test{
 private int code；
-private String name;
 private int age;
+private String changes;
 }
