@@ -1,5 +1,5 @@
 public class Vuln{
-    private void renderState(FacesContext context) throws IOException {
+    public void renderState(FacesContext context) throws IOException {
        if (null != window) {
            String clientWindowId = Util.getClientWindowId(context);
            writer.startUpdate(clientWindowId);
